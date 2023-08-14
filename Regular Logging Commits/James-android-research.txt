@@ -1,0 +1,4 @@
+Found resource for integrating OneDrive with Android applications:
+https://github.com/OneDrive/onedrive-sdk-android/tree/master
+
+The SDK is in Java (WonderScan resource is also in Java)
