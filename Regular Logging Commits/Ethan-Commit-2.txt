@@ -1,0 +1,5 @@
+Ran Tesseract over test images. Found it to be very bad at OCR for handwritten notes.
+Brought this to attention of team.
+Now if discussion as to what to do.
+
+Researched further into OCR, found to be very ineffective when recognising handwritten notes.
