@@ -1,0 +1,6 @@
+- Tried to spike this React Native package but to no avail: https://github.com/jonathanpalma/react-native-tesseract-ocr
+  - Default react packages are not compatible with the latest version of that package
+  - Tried downgrading react packages but the latest Expo version is also not compatible with the package
+  - Tried downgrading Expo but it caused a whole lot of errors and deprecation warnings
+  - We may base our app off a different repo so not worth exploring further I think: https://github.com/devsebastian/WonderScan
+- Commented on Figma Designs
