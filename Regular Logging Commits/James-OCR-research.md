@@ -6,3 +6,7 @@ Looked further into [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/blob/r
 
 
 PaddleOCR can also be used as a service with FastAPI provided by [Sparrow](https://github.com/katanaml/sparrow), although this might only be specific to documents
+
+Concerns for garbled OCR data could be solved by using ChatGPT to decipher text. 
+- Although the example from youtube used text extracted from a document and used ChatGPT4
+-- The output data was in arrays
