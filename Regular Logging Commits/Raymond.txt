@@ -4,3 +4,6 @@
   - Tried downgrading Expo but it caused a whole lot of errors and deprecation warnings
   - We may base our app off a different repo so not worth exploring further I think: https://github.com/devsebastian/WonderScan
 - Commented on Figma Designs
+
+- Planned Sprint
+- Reviewed Allan's PR: https://github.com/uoa-compsci399-s2-2023/app_core/pull/1
