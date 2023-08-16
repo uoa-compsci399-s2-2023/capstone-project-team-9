@@ -1,0 +1,6 @@
+AWS Textract
+- testing OCR 
+- using test4 example
+- example token "@due"
+- dencent results
+- TODO test other example handwritten notes and tokens
