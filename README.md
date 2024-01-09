@@ -5,6 +5,8 @@ Tabs is a mobile application that aims to streamline the process of integrating 
 notes into the cloud. Tabs achieves this by leveraging the power of machine learning and use 
 of cloud storage solutions. 
 
+[Source Code Click HERE](https://github.com/uoa-compsci399-s2-2023/app_core)
+
 For more information please refer to our [project report](https://docs.google.com/document/d/1ZNyd0SyXUW9y9Yw4eIKm6GrkFeYUbCFS/edit?usp=sharing&ouid=109097623349778516507&rtpof=true&sd=true). <br>
 For a project plan please refer to our 
 [Trello board](https://trello.com/w/workspace05615787/home).
